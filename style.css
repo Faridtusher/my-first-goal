@@ -113,7 +113,7 @@ h1{
 /********************************
  Third section style 
 *********************************/
-.third-section{
+#third-section{
    margin: 0px auto;
    margin-bottom: 80px;
    width: 70%;
@@ -152,6 +152,44 @@ h1{
 
 
 
+/********************************
+ fourth section style 
+*********************************/
+#fourth-section{
+   margin: 0px auto;
+   width: 50%;
+}
+
+.my-form {
+   background-color: rgb(228, 228, 186);
+   padding: 100px;
+   border-radius: 10px;
+  
+}
+
+.my-form form {
+   text-align: center;
+  
+}
+
+
+.my-form input{
+   background-color: rgb(224, 213, 213);
+   border: none;
+   padding: 5px;
+   border-radius: 5px;
+}
+
+
+.my-form Button{
+   background-color: rgb(242, 72, 72);
+   color: white;
+   padding: 5px 20px;
+   font-weight: 700;
+   border: none;
+   border-radius: 5px;
+}
+
 
 
 
@@ -165,12 +203,10 @@ h1{
 
 footer{
    background-color: black;
-   
    text-align: center;
    padding: 10px;
    
 }
-
 
 
 footer h1{
@@ -180,31 +216,10 @@ footer h1{
    
 }
 footer p{
-   color: white;
-   
+
+   color: white;  
 }
 
-
 /********************************
- Common section of the website 
-*********************************/
-
-/********************************
- Common section of the website 
-*********************************/
-
-/********************************
- Common section of the website 
-*********************************/
-
-/********************************
- Common section of the website 
-*********************************/
-
-/********************************
- Common section of the website 
-*********************************/
-
-/********************************
- Common section of the website 
+finish all section style
 *********************************/
