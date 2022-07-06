@@ -191,12 +191,6 @@ h1{
 }
 
 
-
-
-
-
-
-
 /********************************
  footer section style 
 *********************************/
@@ -204,8 +198,7 @@ h1{
 footer{
    background-color: black;
    text-align: center;
-   padding: 10px;
-   
+   padding: 10px;  
 }
 
 
