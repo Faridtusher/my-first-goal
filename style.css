@@ -1,3 +1,113 @@
+
+/********************************
+ Common section of the website 
+*********************************/
 body{
-  
+   font-family: 'Roboto', sans-serif;
+   margin: 0px;
+   padding: 0px;
+   border: none;  
 }
+
+
+.section-victim{
+   margin-bottom: 150px;
+
+}
+
+
+h1{
+   font-size: 2.5em;
+   
+}
+
+
+
+/**************************************
+ top section of the website
+***************************************/
+#first-section{
+
+   background-image: url(images/donation13.jpg);
+   background-repeat: no-repeat;
+   background-position: left;
+   background-size: cover;
+    text-align: center;
+   color: aliceblue;
+   padding: 80px 10px;  
+}
+
+
+.text-decorate{
+  
+   width: 40%;
+   margin: 0px auto;
+}
+
+
+.text-decorate a{
+  
+   text-decoration: none;
+   background-color: rgb(242, 72, 72);
+   color: white;
+   padding: 10px 25px;
+   font-weight: 700;
+   border-radius: 5px;
+   margin-top: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/********************************
+ Common section of the website 
+*********************************/
+
+/********************************
+ Common section of the website 
+*********************************/
+
+/********************************
+ Common section of the website 
+*********************************/
+
+/********************************
+ Common section of the website 
+*********************************/
+
+/********************************
+ Common section of the website 
+*********************************/
+
+/********************************
+ Common section of the website 
+*********************************/
+
+/********************************
+ Common section of the website 
+*********************************/
+
+/********************************
+ Common section of the website 
+*********************************/
+
+/********************************
+ Common section of the website 
+*********************************/
