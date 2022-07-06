@@ -113,6 +113,42 @@ h1{
 /********************************
  Third section style 
 *********************************/
+.third-section{
+   margin: 0px auto;
+   margin-bottom: 80px;
+   width: 70%;
+}
+
+
+.main-services{
+   display: flex;
+}
+
+
+.help-family{
+   box-shadow: 10px 10px 20px gray;
+   margin: 10px 0px 0px 20px;
+   padding: 40px;
+   border-radius: 10px;
+}
+
+
+
+#food-family{
+   background-color: rgb(185, 185, 210);
+   
+}
+
+
+#shelter-family{
+   background-color: rgb(228, 203, 203);
+
+}
+
+
+#education-family{
+   background-color: rgb(187, 222, 187);
+}
 
 
 
@@ -124,8 +160,30 @@ h1{
 
 
 /********************************
- Common section of the website 
+ footer section style 
 *********************************/
+
+footer{
+   background-color: black;
+   
+   text-align: center;
+   padding: 10px;
+   
+}
+
+
+
+footer h1{
+   color: red;
+   font-family: 'Finlandica', sans-serif;
+   font-family: 'Gentium Book Plus', serif;
+   
+}
+footer p{
+   color: white;
+   
+}
+
 
 /********************************
  Common section of the website 
